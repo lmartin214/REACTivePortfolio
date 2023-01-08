@@ -9,8 +9,8 @@
   
   footer {
     font-size: 14px;
-    color: var(--platinum);
-    background-color: var(--artichoke);
+    color: var(--darkSienna);
+    background-color: var(--paleSilver);
     text-align: center;
   }
   
@@ -19,4 +19,7 @@
     margin-right: 50px;
     list-style: none;
     display: inline;
+  }
+  .contact-icons {
+    text-align: center;
   }
