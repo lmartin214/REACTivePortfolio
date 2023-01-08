@@ -1,0 +1,22 @@
+:root {
+  --darkSienna: #561426;
+  --grulio: #bca897;
+  --platinum: #e6e6e5;
+  --paleSilver: #c9c1b9;
+  --artichoke: #95a185;
+}
+
+.navigation {
+  overflow: hidden;
+}
+
+#navigationBar {
+  color: var(--grulio);
+  background-color: var(--artichoke);
+  padding: 12px 15px;
+  text-decoration: none;
+}
+
+#navElement {
+  color: var(--darkSienna);
+}
