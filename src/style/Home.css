@@ -1,0 +1,24 @@
+:root {
+  --darkSienna: #561426;
+  --grulio:#BCA897;
+  --platinum:#E6E6E5;
+  --paleSilver:#C9C1B9;
+  --artichoke:#95A185;
+}
+
+.homeH1{
+  position:relative;
+
+}
+
+#selfImage {
+  width: 200x;
+  height: 300x;
+}
+
+#home {
+  color: var(--platinum);
+  background-color: var(--darkSienna);
+  height: 500px;
+  text-align: center;
+}

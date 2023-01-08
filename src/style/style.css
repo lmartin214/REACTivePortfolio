@@ -1,0 +1,35 @@
+/*Root tag*/
+
+:root {
+  --darkSienna: #561426;
+  --grulio: #bca897;
+  --platinum: #e6e6e5;
+  --paleSilver: #c9c1b9;
+  --artichoke: #95a185;
+}
+
+body {
+  font-family: Georgia, Times, "Times New Roman", serif;
+  color: var(--platinum);
+  font-size: 20px;
+  text-align: center;
+  background-color: var(--grulio);
+  padding: 0px;
+  margin: 0px;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: Georgia, Times, "Times New Roman", serif;
+}
+
+p,
+li,
+td,
+th,
+a {
+  font-family: Georgia, Times, "Times New Roman", serif;
+}
