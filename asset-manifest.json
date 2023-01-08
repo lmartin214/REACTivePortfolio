@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/REACTivePortfolio/static/css/main.f1c4a872.css",
+    "main.js": "/REACTivePortfolio/static/js/main.89d335b3.js",
+    "static/js/787.45916773.chunk.js": "/REACTivePortfolio/static/js/787.45916773.chunk.js",
+    "static/media/SsCodingQuiz.png": "/REACTivePortfolio/static/media/SsCodingQuiz.2bb094a74ba0f847cdf1.png",
+    "static/media/WeatherDashboard.png": "/REACTivePortfolio/static/media/WeatherDashboard.81c130a71377a9a75428.png",
+    "static/media/self-img.jpg": "/REACTivePortfolio/static/media/self-img.5070bd81c20294c2f7cb.jpg",
+    "static/media/NASA_explore.png": "/REACTivePortfolio/static/media/NASA_explore.c15dcefe2d3b8d96c179.png",
+    "static/media/SsWorkDayScheduler.png": "/REACTivePortfolio/static/media/SsWorkDayScheduler.146cea71ea46cd31e950.png",
+    "static/media/SspasswordGen.png": "/REACTivePortfolio/static/media/SspasswordGen.3ab5e74a2601e7c57f55.png",
+    "static/media/SsJATE.png": "/REACTivePortfolio/static/media/SsJATE.b9aa9a4bd91a7aa41acd.png",
+    "index.html": "/REACTivePortfolio/index.html",
+    "main.f1c4a872.css.map": "/REACTivePortfolio/static/css/main.f1c4a872.css.map",
+    "main.89d335b3.js.map": "/REACTivePortfolio/static/js/main.89d335b3.js.map",
+    "787.45916773.chunk.js.map": "/REACTivePortfolio/static/js/787.45916773.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f1c4a872.css",
+    "static/js/main.89d335b3.js"
+  ]
+}
