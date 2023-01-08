@@ -1,0 +1,14 @@
+.aboutMe {
+  background-color: var(--grulio);
+  color: var(--darkSienna);
+  padding: 20px;
+}
+
+#aboutText {
+  font-size: 18px;
+  justify-content: center;
+}
+
+#selfImage {
+  display: flex;
+}

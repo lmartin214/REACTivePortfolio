@@ -1,0 +1,22 @@
+/*Footer*/
+:root {
+   --darkSienna: #561426;
+    --grulio:#BCA897;
+    --platinum:#E6E6E5;
+    --paleSilver:#C9C1B9;
+    --artichoke:#95A185;
+  }
+  
+  footer {
+    font-size: 14px;
+    color: var(--platinum);
+    background-color: var(--artichoke);
+    text-align: center;
+  }
+  
+  .icons {
+    margin-left: 50px;
+    margin-right: 50px;
+    list-style: none;
+    display: inline;
+  }
