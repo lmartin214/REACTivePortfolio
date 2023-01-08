@@ -1,0 +1,52 @@
+
+img {
+  height: 350px;
+  margin: auto;
+}
+
+#projectCard {
+  margin: 5px;
+  text-align: center;
+}
+
+#projectsDiv {
+  text-align: center;
+  background-color: var(--paleSilver);
+}
+
+.overlay-card {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  height: 100%;
+  width: 100%;
+  opacity: 0;
+  transition: 0.5s ease;
+  background-color: var(--grulio);
+}
+
+.card:hover .overlay-card {
+  opacity: 0.9;
+}
+
+#overlay-text1 {
+  position: absolute;
+  color: var(--darkSienna);
+  top: 40%;
+  bottom: 0;
+  left: 30%;
+  font-size: 30px;
+  text-decoration: none;
+}
+
+#overlay-text2 {
+  position: absolute;
+  color: var(--darkSienna);
+  top: 50%;
+  bottom: 0;
+  left: 30%;
+  font-size: 25px;
+  text-decoration: none;
+}
