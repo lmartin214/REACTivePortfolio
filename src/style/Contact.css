@@ -1,0 +1,27 @@
+.contact {
+  background-color: var(--darkSienna);
+  color: var(--platinum);
+  text-align: left;
+}
+
+h3 {
+  margin-left: 20px;
+}
+
+form {
+  margin-left: 10%;
+  margin-right: 10%;
+}
+
+.btn {
+  margin-top: 5px;
+  color: var(--artichoke);
+}
+
+#contactList {
+  width: fit-content;
+  margin-left: 10%;
+}
+#contactItem {
+  text-decoration: none;
+}
