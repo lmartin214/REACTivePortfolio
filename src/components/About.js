@@ -6,6 +6,11 @@ function About() {
   return (
     <div className="aboutMe">
       <h1 id="aboutTitle">About Me</h1>
+      <img
+        id="selfImage"
+        src={require("../assets/images/self-img.jpg")}
+        alt="Lamar Martin's Portfolio"
+      ></img>
       <p id="aboutText">
       Hi! I'm Lamar Martin, a results-driven full stack developer with a diverse
       background in the cannabis industry. I bring a strong foundation in front-end 
@@ -34,11 +39,7 @@ function About() {
       expertise. I am excited to collaborate with a forward-thinking team to build 
       exceptional web applications that make a positive impact on users' lives.
       </p>
-      <img
-        id="selfImage"
-        src={require("../assets/images/self-img.jpg")}
-        alt="Lamar Martin's Portfolio"
-      ></img>
+     
     </div>
   );
 }
